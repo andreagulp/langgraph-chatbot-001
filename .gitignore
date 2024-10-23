@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Node modules (if you have a frontend)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
